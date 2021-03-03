@@ -1,17 +1,17 @@
 # Site settings
 title: Ikhyun Cho
-description: A blog about lorem ipsum dolor sit amet
+description: A blog about Ikhyun Cho
 baseurl: "" #"/particle" # the subpath of your site, e.g. /blog
 url: "http://cih23.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Ikhyun Cho
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
+user_description: I am an M.S. student in Machine Learning Department at Carnegie Mellon University. Previously I worked with Prof. U Kang as an undergraduate researcher at Seoul National University, South Korea. My research mainly focus on deep learning and its applications in Machine Learning and Natural Language Processing. 
 user_title: Machine Learning Researcher
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
+email: ikhyuncho@snu.ac.kr
+twitter_username: -
+github_username:  cih23
+gplus_username:  -
 
 # Google-analytics
 google-analytics:
